@@ -1,0 +1,6 @@
+.advantages__image {
+   max-width: 210px;
+   height: 150px;
+   margin: 0 auto;
+   object-fit: contain;
+}

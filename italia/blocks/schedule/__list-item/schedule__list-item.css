@@ -1,0 +1,6 @@
+.schedule__list-item {
+   list-style: none;
+   display: flex;
+   align-items: flex-start;
+   width: 15%;
+}

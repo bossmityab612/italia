@@ -1,0 +1,84 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/inter-font.css');
+@import url('../blocks/content/content.css');
+@import url('../blocks/page/page.css');
+
+/* ----------------Блок Шапка сайта------------- */
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__block/header__block.css');
+@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/header/__menu/header__menu.css');
+@import url('../blocks/header/__menu/_list-item/header__menu_list-item.css');
+@import url('../blocks/header/__menu/_link/header__menu_link.css');
+
+/*-------------- Блок контакты --------------*/
+@import url('../blocks/header/__contacts/header__contacts.css');
+@import url('../blocks/header/__contacts-list/contacts-list.css');
+@import url('../blocks/header/__contacts/_list-item/header__contacts_list-item.css');
+@import url('../blocks/header/__contacts/_socials/header__contacts_socials.css');
+
+/* -------------Блок Баннер------------- */
+@import url('../blocks/banner/banner.css');
+@import url('../blocks/banner/__photo/banner__photo.css');
+
+/*--------- Блок Преимущества ----------*/
+@import url('../blocks/advantages/advantages.css');
+@import url('../blocks/advantages/__title/advantages__title.css');
+@import url('../blocks/advantages/__subtitle/advantages__subtitle.css');
+@import url('../blocks/advantages/__list/advantages__list.css');
+@import url('../blocks/advantages/__list-item/advantages__list-item.css');
+@import url('../blocks/advantages/__image/advantages__image.css');
+@import url('../blocks/advantages/__description/advantages__description.css');
+
+/*---------- Секция с пробелом -------------*/
+@import url('../blocks/background-image-block/background-image-block.css');
+
+
+
+/*------------ Блок Расписание -----------*/
+@import url('../blocks/schedule/schedule.css');
+@import url('../blocks/schedule/__subtitle/schedule__subtitle.css');
+@import url('../blocks/schedule/__list/schedule__list.css');
+@import url('../blocks/schedule/__list-item/schedule__list-item.css');
+@import url('../blocks/schedule/__time/schedule__time.css');
+@import url('../blocks/schedule/__description/schedule__description.css');
+
+/*-------------- Блок Курсы ---------------*/
+@import url('../blocks/courses/courses.css');
+@import url('../blocks/courses/__subtitle/courses__subtitle.css');
+@import url('../blocks/courses/__description/courses__description.css');
+@import url('../blocks/courses/__description/_list-item/courses__description_list-item.css');
+@import url('../blocks/courses/__img/courses__img.css');
+
+/*--------- Блок Упоминания в журналах ----------*/
+@import url('../blocks/magazines/magazines.css');
+@import url('../blocks/magazines/__subtitle/magazines__subtitle.css');
+@import url('../blocks/magazines/__list/magazines__list.css');
+@import url('../blocks/magazines/__list-item/magazines__list-item.css');
+
+/*-------------- Блок Галерея --------------*/
+@import url('../blocks/gallery/gallery.css');
+@import url('../blocks/gallery/__subtitle/gallery__subtitle.css');
+@import url('../blocks/gallery/__list/gallery__list.css');
+@import url('../blocks/gallery/__list-item/gallery__list-item.css');
+@import url('../blocks/gallery/_image/gallery_image.css');
+
+/*---------------- Подвал -------------*/
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__contacts/footer__contacts-block.css');
+@import url('../blocks/footer/__contacts-list/footer__contacts-list.css');
+@import url('../blocks/footer/__contacts/_list-item/footer__contacts_list-item.css');
+@import url('../blocks/footer/__contacts/_socials/footer__contacts_socials.css');
+
+@import url('../blocks/footer/__addres/footer__addres-block.css');
+@import url('../blocks/footer/__addres/footer__addres.css');
+@import url('../blocks/footer/__contacts/footer__contacts.css');
+@import url('../blocks/footer/__addres/__contacts-addres/footer__contacts-addres.css');
+
+@import url('../blocks/footer/__form/footer__form.css');
+@import url('../blocks/footer/__block/footer__block.css');
+@import url('../blocks/footer/__form/_subtitle/footer__form_subtitle.css');
+@import url('../blocks/footer/__form/_block/footer__form_block.css');
+@import url('../blocks/footer/__form/_input/footer__form_input.css');
+@import url('../blocks/footer/__form/_button/footer__form_button.css');
+

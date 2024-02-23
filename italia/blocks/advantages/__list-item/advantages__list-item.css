@@ -1,0 +1,7 @@
+.advantages__list-item {
+   max-width: 210px;
+   height: 246px;
+   padding: 0 15px;
+   list-style: none;
+   text-align: center;
+}

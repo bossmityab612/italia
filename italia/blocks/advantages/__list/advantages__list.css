@@ -1,0 +1,9 @@
+.advantages__list {
+   max-width: 1440px;
+   margin: 0 auto;
+   padding: 0;
+   display: flex;
+   justify-content: space-between;
+   color: #404040;
+   font-size: 27px;
+}

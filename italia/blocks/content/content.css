@@ -1,0 +1,9 @@
+.content {
+   background-color: #ffffff;
+   max-width: 1440px;
+   margin: 0 auto;
+   font-family: 'Inter', Arial, Helvetica, sans-serif;
+   justify-content: center;
+   display: flex;
+   flex-direction: column;
+}

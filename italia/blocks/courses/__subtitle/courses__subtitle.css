@@ -1,0 +1,9 @@
+.subtitle {
+   margin: 0 auto;
+   height: 66px;
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   background-color: #acd13d;
+}

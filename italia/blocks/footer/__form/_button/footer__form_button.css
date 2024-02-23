@@ -1,0 +1,13 @@
+.footer__form_button {
+   border-radius: 22px;
+   height: 40px;
+   font-size: 1em;
+   line-height: 1em;
+   padding: 10px 25px;
+   color: #fff;
+   background-color: #ff9900;
+   border: 0;
+   box-shadow: 0px 5px 0px 0px #f2b559;
+   vertical-align: top;
+   transition: all 0.3s ease;
+}
